@@ -1,0 +1,88 @@
+.link a{
+        text-decoration: none;
+        color:white;
+        margin:auto 1%
+}
+.link a:hover{
+        color:rgb(109, 109, 206);
+}
+
+.centerImage {
+         text-align: center; 
+         display: block; 
+ }
+   .eagenda{
+        color: rgb(109, 109, 206);
+        text-align: right;
+        display:flex;
+        position: absolute;
+        top: 61%;
+        left: 70%;
+}
+
+.linha{
+        content: ' ';
+        height: 2px;
+        width: 326px;
+        left: 5px;
+        background-color: rgb(109, 109, 206);
+}
+
+.cabecalhoTarefa{
+        margin-top: 100px;
+        margin-left: 200px;
+}
+
+.btnPadrao{
+        text-decoration:none;
+        text-align: center;
+        color: white;
+        width: 130px;
+        height: 30px;
+         background-color: #212529;
+          border-radius: 5px;
+          border: 2px solid rgb(109, 109, 206);
+}
+.btnPadrao:hover{
+         color: rgb(109, 109, 206);
+}
+.form-check-input:checked{
+        background-color: rgb(109, 109, 206);
+        border-color: rgb(109, 109, 206) !important;
+}
+
+.btnEditar{
+        text-decoration:none;
+        text-align: center;
+        color: white;
+        width: 70px;
+        height: 35px;
+         background-color: #212529;
+          border-radius: 5px;
+          border: 2px solid rgb(109, 109, 206);
+}
+.btnEditar:hover{
+         color: rgb(109, 109, 206);
+}
+
+.btnExcluir{
+        text-decoration:none;
+        text-align: center;
+        color: white;
+        width: 70px;
+        height: 35px;
+         background-color: #212529;
+          border-radius: 5px;
+          border: 2px solid red;
+}
+.btnExcluir:hover{
+        color: red;
+}
+.w3-input{
+        width: 600px;
+        height: 35px;
+        border-style: solid;
+        border-radius: 10px;
+        outline-color: rgb(109, 109, 206) ;
+}
+
