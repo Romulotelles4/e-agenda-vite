@@ -1,0 +1,1 @@
+var t=Object.defineProperty;var s=(r,n,e)=>n in r?t(r,n,{enumerable:!0,configurable:!0,writable:!0,value:e}):r[n]=e;var o=(r,n,e)=>(s(r,typeof n!="symbol"?n+"":n,e),e);import"./style.c0ed6924.js";class a{constructor(){o(this,"btnTarefa");this.configurarElementos()}configurarElementos(){}}new a;
